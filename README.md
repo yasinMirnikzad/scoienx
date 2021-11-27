@@ -1,4 +1,4 @@
-# xcoiens
+# xcoins
 
 Hi ,
 before start run "yarn" or "npm" to install packages.
